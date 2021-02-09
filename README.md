@@ -33,19 +33,19 @@ A simple memory game to train your memory made in flutter. there is three inform
 ---
 
 ### Starting Page 
-![Start](./images-and-apk/1.png)
+![Start](images-and-apk/1.PNG)
 
 ### Memorizing Phase
 
-![Memorize](./images-and-apk/2.png)
+![Memorize](images-and-apk/2.PNG)
 
 ### Finding numbers
 
-![Find](./images-and-apk/3.png)
+![Find](images-and-apk/3.PNG)
 
 ### End Game
 
-![End](./images-and-apk/4.png)
+![End](images-and-apk/4.PNG)
 
 
 
