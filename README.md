@@ -8,7 +8,7 @@ Memory Game
 Fadıl Şahin
 <br>
 
-* Project Date: <br/>
+* Project Start Date: <br/>
 December 2020
 <br>
 
