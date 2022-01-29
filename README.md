@@ -25,7 +25,7 @@ A simple memory game to train your memory made in flutter. there is three inform
 
 - ***Usable apk is inside [images-and-apk](images-and-apk/Memorygame.apk) folder***
 
-- ***Usable Executable file for windows is inside [images-and-apk](images-and-apk/Memorygame.exe) folder. Dont forget to exectue with dll file and data files.***
+- ***Usable Executable file for windows is inside [images-and-apk](images-and-apk/Memorygame.exe) folder. Exectue with the dll and data files.***
 
 :exclamation: --------------------------------------------------------------------------------- :exclamation:
 
